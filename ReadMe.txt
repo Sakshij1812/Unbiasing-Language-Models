@@ -15,5 +15,3 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *ir_datasets module is not included in this package because it is a big folder. The ir_datasets folder must be downloaded and placed within the 'Dissertation' folder.
-
-*The entire code along with the data, pre-trained models and ir_datasets module can be found on the google drive - https://drive.google.com/drive/folders/1kKc1s1XK6toX9Ru4dwURXmmO2WioWwcy?usp=sharing
